@@ -1,0 +1,2 @@
+import number_baseball_def
+number_baseball_def.main()
